@@ -1,8 +1,8 @@
 ### Hi, I'm mint-m 👋
 
 - 🈷️ **[kanji](https://github.com/mint-m/kanji)** — 일본어 한자/단어 단어장
-- 🫘 **[Bean-Hoarder](https://github.com/mint-m/Bean-Hoarder)**
-- **[mirok](https://github.com/mint-m/mirok)**
+- 🫘 **[bean-hoarder](https://github.com/mint-m/bean-hoarder)**
+- **mirok**
 
 진행 중:
 - 📷 **[swipeclean](https://github.com/mint-m/swipeclean)** — iOS 사진 정리 앱 (Demo)
