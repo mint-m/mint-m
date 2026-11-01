@@ -1,8 +1,5 @@
 ### mint-m
 
-AI에게 일을 맡기고 그 결과를 책임지는 개발자입니다.
-정확한 기획·디자인 명세로 지시하고, 문제가 생기면 걸러지는 장치를 만들어 개발합니다.
-
 ---
 
 #### 🫘 [Bean-Hoarder](https://github.com/mint-m/bean-hoarder) — 원두 소분 QR 라벨 서비스
@@ -11,8 +8,7 @@ AI에게 일을 맡기고 그 결과를 책임지는 개발자입니다.
 **[데모 보기](https://bnhd.pages.dev/demo)** (로그인 없이) · [서비스](https://bnhd.pages.dev)
 
 - TypeScript 모노레포, Cloudflare Pages · Functions · D1 · R2, 운영비 0원
-- 린트·Vitest·Playwright e2e를 통과해야 배포되는 CI. 7월 첫 배포 이후 일곱 번 릴리스
-- AI가 내놓은 정석 구조를 그대로 쓰지 않고 프로젝트에 맞게 덜어냄 (v1 잔재 제거, 조회·덱·랩을 한 빌드로)
+- 린트·Vitest·Playwright e2e를 통과해야 배포되는 CI.
 - 문서는 한 곳에서만 갱신: [STRUCTURE](https://github.com/mint-m/bean-hoarder/blob/main/STRUCTURE.md)(코드에서 생성) · [DESIGN](https://github.com/mint-m/bean-hoarder/blob/main/DESIGN.md)(디자인 시스템) · [CLAUDE](https://github.com/mint-m/bean-hoarder/blob/main/CLAUDE.md)(작업 원칙)
 
 #### 🀄 [kanji](https://github.com/mint-m/kanji) — JLPT 일본어 단어 학습 앱
